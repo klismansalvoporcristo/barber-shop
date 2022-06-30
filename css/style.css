@@ -233,7 +233,6 @@ body{
 .appointment{
     background-color: var(--color-primary);
     height: 100vh;
-    text-align: center;
     padding: 100px 0;
     background-image: url(../images/chair-ic.png);
     background-repeat: no-repeat;
